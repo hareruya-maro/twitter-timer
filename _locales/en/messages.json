@@ -1,0 +1,26 @@
+{
+    "name": {
+        "message": "Twitter Timer"
+    },
+    "short_name": {
+        "message": "Tw Timer"
+    },
+    "description": {
+        "message": "This timer sets the displayable time of Twitter. When the set time elapses, the tab closes without permission."
+    },
+    "save": {
+        "message": "SAVE"
+    },
+    "displayableTime": {
+        "message": "Displayable time(min.)："
+    },
+    "savesuccess": {
+        "message": "Options saved."
+    },
+    "on": {
+        "message": "Timer is set ON."
+    },
+    "off": {
+        "message": "Timer is set OFF."
+    }
+}

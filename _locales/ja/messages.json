@@ -1,0 +1,26 @@
+{
+    "name": {
+        "message": "Twitter Timer"
+    },
+    "short_name": {
+        "message": "Tw Timer"
+    },
+    "description": {
+        "message": "Twitterの表示可能時間を設定するタイマーです。設定した時間を経過すると勝手にタブが閉じます。 "
+    },
+    "save": {
+        "message": "保存"
+    },
+    "displayableTime": {
+        "message": "表示可能時間(分)："
+    },
+    "savesuccess": {
+        "message": "設定が保存されました。"
+    },
+    "on": {
+        "message": "タイマーが有効になりました。"
+    },
+    "off": {
+        "message": "タイマーが無効になりました。"
+    }
+}
