@@ -8,7 +8,7 @@ chrome.storage.sync.get({
     if (items.isOn === 'ON') {
         setTimeout(() => {
             chrome.runtime.sendMessage("close", function (response) { });
-        }, time * 1000); // デバッグのため秒で確認
+        }, time * 60 * 1000);
     }
 });
 
